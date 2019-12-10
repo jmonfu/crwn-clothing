@@ -7,3 +7,8 @@ a {
     text-decoration: none;
     color: black;
 }
+
+/* this removes the padding of the input fields so that it makes the input fields and button aligned together */
+* {
+    box-sizing: border-box;
+}
